@@ -2,7 +2,7 @@ No|Star|Category|Problem| Type| Note| Any Reference| Related
 | -------------| ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
 1|N|Contains Duplicate|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Very Easy||
 2|Y|Contains Duplicate|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|Easy|You should definitely solve this problem.|https://github.com/SaPhyoThuHtet/algos-and-data-structure/blob/main/array/basics/contains-duplicate2.py|
-3|Y|K Sum|[Two Sum](https://leetcode.com/problems/two-sum/)| Easy|And it is the very first basic you should learn. I prefer dic approach with O(n) time and Space Complexity||Two SumII, Three Sum, Four Sum, K-Sum
+3|Y|K Sum|[Two Sum](https://leetcode.com/problems/two-sum/)| Easy|And it is the very first basic you should learn. I prefer dic approach with O(n) time and Space Complexity|https://github.com/SaPhyoThuHtet/algos-and-data-structure/blob/main/array/basics/2sum.py|Two SumII, Three Sum, Four Sum, K-Sum
 4|Y|K Sum|[Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|Medium|I prefer two pointer approach with O(n) time and O(1) Space Complexity|https://github.com/SaPhyoThuHtet/algos-and-data-structure/blob/main/array/basics/two-sum-II.py|Two SumIII, Three Sum, Four Sum, K-Sum
 5|Y|K Sum|[Three Sum](https://leetcode.com/problems/3sum/)|Medium||https://github.com/SaPhyoThuHtet/algos-and-data-structure/blob/main/array/basics/3sum.py|Three Sum, Four Sum, K-Sum
 6|Y|K Sum|[Four Sum](https://leetcode.com/problems/4sum/)|Medium||https://github.com/SaPhyoThuHtet/algos-and-data-structure/blob/main/array/basics/4sum.py|Two SumIII, Three Sum, Four Sum, K-Sum
