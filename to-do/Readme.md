@@ -13,4 +13,4 @@ Coding Interview Style Practice
 -[] Valid Parantheses String
 
 
-string problems
+string problems, dynamic programming concept, greedy algorithms
