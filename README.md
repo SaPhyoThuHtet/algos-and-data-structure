@@ -21,3 +21,4 @@ And you must know about Big O Notation.
 3. dictionary
 4. recursion and dynamic programming
 
+Are you all ok?
