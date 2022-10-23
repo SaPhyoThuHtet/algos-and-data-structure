@@ -3,6 +3,7 @@ No|Star|Category|Problem| Type| Note| Any Reference| Related
 1|Y|Binary Search|[Binary Search](https://leetcode.com/problems/binary-search/)|Easy|O(log (n)) Time Complexity||
 -|Y|Binary Search|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|Easy|Very great binary search concept||
 -|Y|Binary Search|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|Easy|Very great binary search concept||
+-|Y|Two Pointers|[Sorted Squares](https://github.com/SaPhyoThuHtet/algos-and-data-structure/blob/main/array/basics/sortedSquares.py)|Easy|Very elegant thinking||
 2|N|Contains Duplicate|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Very Easy||
 -|Y|Contains Duplicate|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|Easy|You should definitely solve this problem.|https://github.com/SaPhyoThuHtet/algos-and-data-structure/blob/main/array/basics/contains-duplicate2.py|
 3|Y|K Sum|[Two Sum](https://leetcode.com/problems/two-sum/)| Easy|And it is the very first basic you should learn. I prefer dic approach with O(n) time and Space Complexity|https://github.com/SaPhyoThuHtet/algos-and-data-structure/blob/main/array/basics/2sum.py|Two SumII, Three Sum, Four Sum, K-Sum
