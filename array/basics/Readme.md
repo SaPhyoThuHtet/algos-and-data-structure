@@ -1,6 +1,6 @@
 No|Star|Category|Problem| Type| Note| Any Reference| Related
 | -------------| ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
-1|Y|Binary Search|[Binary Search](https://leetcode.com/problems/binary-search/)|Easy|O(log (n)) Time Complexity||
+1|Y|Binary Search|[Binary Search](https://leetcode.com/problems/binary-search/)|Easy|O(log (n)) Time Complexity|https://github.com/SaPhyoThuHtet/algos-and-data-structure/blob/main/array/basics/binary-search.py|
 -|Y|Binary Search|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|Easy|Very great binary search concept||
 -|Y|Binary Search|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|Easy|Very great binary search concept||
 -|Y|Two Pointers|[Sorted Squares](https://github.com/SaPhyoThuHtet/algos-and-data-structure/blob/main/array/basics/sortedSquares.py)|Easy|Very elegant thinking||
