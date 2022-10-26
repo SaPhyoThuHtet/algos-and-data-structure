@@ -5,6 +5,7 @@ No|Star|Category|Problem| Type| Note| Any Reference| Related
 -|Y|Binary Search|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|Easy|Very great binary search concept||
 2|Y|Two Pointers|[Sorted Squares](https://github.com/SaPhyoThuHtet/algos-and-data-structure/blob/main/array/basics/sortedSquares.py)|Easy|Very elegant thinking||
 -|Y|Two Pointers|[Rotate Array](https://leetcode.com/problems/rotate-array/)|Easy|O(n) Time Complexity O(1) Space Complexity|https://github.com/SaPhyoThuHtet/algos-and-data-structure/blob/main/array/basics/rotatearray.py|
+-|YR|Two Pointers|[Rotate Array](https://leetcode.com/problems/move-zeroes/?envType=study-plan&id=algorithm-i)|Easy|O(n) Time Complexity O(1) Space(You need to repractice)|https://github.com/SaPhyoThuHtet/algos-and-data-structure/blob/main/array/basics/move-zeroes.py
 2|N|Contains Duplicate|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Very Easy||
 -|Y|Contains Duplicate|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|Easy|You should definitely solve this problem.|https://github.com/SaPhyoThuHtet/algos-and-data-structure/blob/main/array/basics/contains-duplicate2.py|
 3|Y|K Sum|[Two Sum](https://leetcode.com/problems/two-sum/)| Easy|And it is the very first basic you should learn. I prefer dic approach with O(n) time and Space Complexity|https://github.com/SaPhyoThuHtet/algos-and-data-structure/blob/main/array/basics/2sum.py|Two SumII, Three Sum, Four Sum, K-Sum
