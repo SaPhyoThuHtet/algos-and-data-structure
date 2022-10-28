@@ -1,3 +1,4 @@
-No|Problem| Type| Note| Any Reference| Related
-| -------------| ------------- | ------------- |------------- |------------- |------------- |
-1|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| Easy|1. Can be solved with dic approach (T-O(n), S-O(n))<br> 2. Can be solved with hare and tortoise approach (T-O(n), S-O(1))|https://youtu.be/gBTe7lFR3vc|1. Linked List Cycle II <br> 2. Happy Number
+No|Star|Category|Problem| Type| Note| Any Reference| Related
+| -------------| ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
+1|Y|Beginning|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)|Easy|O(n) Time Complexity||
+-|Y|Beginning|[Remove Nth Node from the end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Medium|O(n) Time Complexity||
