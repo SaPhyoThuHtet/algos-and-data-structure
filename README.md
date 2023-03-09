@@ -11,7 +11,7 @@ And you must know about Big O Notation.
 1. array
    Time and Space Complexity of Array:\
    **Traversing**\
-   Traversing Array: Time Complexity O(n)\
+   Traversing Array: Time Complexity O(n), Space Complexity O(1)\
    **Insertion**\
    Inserting the element to the first position of the Arrray: Time Complexity O(n)\
    Inserting the element to the last position of the arry: Time Complexity O(n) if the array is static O(1) if the array is dynamic, \
