@@ -11,17 +11,21 @@ And you must know about Big O Notation.
 1. array
    Time and Space Complexity of Array:\
    **Traversing**\
-   Traversing Array: Time Complexity O(n), Space Complexity O(1)\
+   Traversing Array: Time Complexity O(n)\
    **Insertion**\
-   Inserting the element to the first position of the Arrray: Time Complexity O(1), Space Complexity O(n)\
-   Inserting the element to the last position of the arry: Time Complexity O(1), Space Complexity O(1)\
-   Inserting the element (not first and last): Time Complexity O(n), Space Complexity O(n)\
+   Inserting the element to the first position of the Arrray: Time Complexity O(n)\
+   Inserting the element to the last position of the arry: Time Complexity O(n) if the array is static O(1) if the array is dynamic, \
+   Inserting the element (not first and last): Time Complexity O(n)\
    **Deletion**\
-   Deleting the first element from an array: Time Complexity O(1), Space Complexity O(n)\
-   Deleting the last element from an array: Time Complexity O(1), Space Complexity O(1)\
-   Deleting an element in the middle of the array: Time Complexity O(n), Space Complexity O(n)\
+   Deleting the first element from an array: Time Complexity O(n)\
+   Deleting the last element from an array: Time Complexity O(1)\
+   Deleting an element in the middle of the array: Time Complexity O(n)\
    **Copying**\
-   Copying array: Time Complexity O(n), Space Complexity O(n)\
+   Copying array: Time Complexity O(n)\
+   **Accessing**
+   Accessing an element at a given index: Time Complexity O(1)
+   **Updating**
+   Updating and element at a given index: Time Complexity O(1)
 2. matrix
 3. string
 4. linked-list
