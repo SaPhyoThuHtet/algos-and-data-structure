@@ -34,9 +34,10 @@ And you must know about Big O Notation.
    **Copying**\
    Copying string: Time Complexity O(n) Space Complexity O(n)\
     **Accessing**\
-   Accessing an element at a given index: Time Complexity O(1) Space Complexity O(1)\
+   Accessing an element at a given index: Time Complexity O(1) Space Complexity O(1)
    
 4. linked-list
+
 5. tree
 6. graph <br>
 
