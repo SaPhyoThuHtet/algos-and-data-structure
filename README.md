@@ -32,7 +32,7 @@ And you must know about Big O Notation.
    **Traversing**\
    Traversing String: Time Complexity O(n), Space Complexity O(1)\
    **Copying**\
-   Copying array: Time Complexity O(n) Space Complexity O(n)\
+   Copying string: Time Complexity O(n) Space Complexity O(n)\
 4. linked-list
 5. tree
 6. graph <br>
