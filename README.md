@@ -21,7 +21,7 @@ And you must know about Big O Notation.
    Deleting the last element from an array: Time Complexity O(1)\
    Deleting an element in the middle of the array: Time Complexity O(n)\
    **Copying**\
-   Copying array: Time Complexity O(n)\
+   Copying array: Time Complexity O(n) Space Complexity O(n)\
    **Accessing**
    Accessing an element at a given index: Time Complexity O(1)
    **Updating**
@@ -31,6 +31,8 @@ And you must know about Big O Notation.
  Time and Space Complexity of Array:\
    **Traversing**\
    Traversing String: Time Complexity O(n), Space Complexity O(1)\
+   **Copying**\
+   Copying array: Time Complexity O(n) Space Complexity O(n)\
 4. linked-list
 5. tree
 6. graph <br>
