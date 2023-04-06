@@ -28,6 +28,9 @@ And you must know about Big O Notation.
    Updating and element at a given index: Time Complexity O(1)
 2. matrix
 3. string
+ Time and Space Complexity of Array:\
+   **Traversing**\
+   Traversing String: Time Complexity O(n), Space Complexity O(1)\
 4. linked-list
 5. tree
 6. graph <br>
