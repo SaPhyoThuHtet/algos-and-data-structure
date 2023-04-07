@@ -36,6 +36,16 @@ And you must know about Big O Notation.
     **Accessing**\
    Accessing an element at a given index: Time Complexity O(1) Space Complexity O(1)
    
+   Time Complexity of O(n*m) n is the number of words, m is the the max length of the words
+   Space Complexity also O(n*m) if there can be any length of the word, it would be more accurate if we contains m
+   words = ["cat", "dog", "cow"]
+   ans = []
+   for i in words:
+       reveresed_word = i[::-1]
+       ans.append(i)
+       
+       
+   
 4. linked-list
 
 5. tree
