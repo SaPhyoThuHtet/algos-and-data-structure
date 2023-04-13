@@ -59,3 +59,5 @@ And you must know about Big O Notation.
 
 
 Google Thwar Mal
+
+Time Complexity of finding the length of array or string in Python is O(1) not O(n).
