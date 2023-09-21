@@ -53,9 +53,10 @@ And you must know about Big O Notation.
 
 ### Second Part
 1. sliding window
-2. stack/ queue
-3. dictionary
-4. recursion and dynamic programming.
+2. bit manipulation
+3. stack/ queue
+4. dictionary
+5. recursion and dynamic programming.
 
 
 Google Thwar Mal
