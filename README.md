@@ -60,9 +60,10 @@ And you must know about Big O Notation.
 
 # Some Patterns
 1. Tree (Use Stack or Queue or recursive)
-2. Zero Sum
+2. Zero Sum ()
 
 
 # Other Notes
 Time Complexity of finding the length of array or string in Python is O(1) not O(n).
+
 Time complexity of copying a string is O(n**2) not O(n). (Generally, but can be different based on the programming language)
