@@ -49,7 +49,8 @@ And you must know about Big O Notation.
 4. linked-list
 
 5. tree
-6. graph <br>
+6. graph
+   Vertices are values and edges are connection.
 
 ### Second Part
 1. sliding window
