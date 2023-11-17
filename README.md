@@ -49,7 +49,8 @@ And you must know about Big O Notation.
 4. linked-list
 
 5. tree
-6. graph
+   Tree is a type of graph. Common Types of Trees: Binary Tree and Binary Search Tree
+7. graph
    Vertices are values and edges are connection.
 
 ### Second Part
