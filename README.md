@@ -72,14 +72,9 @@ Time complexity of copying a string is O(n**2) not O(n). (Generally, but can be 
 
 
 ### To Start With
-Two Sum
-
-Binary Search
-
-Move Zeros
-
-Remove Element
-
-First Bad Version
-
-Reverse String
+1. Two Sum
+2. Binary Search
+3. Move Zeros
+4. Remove Element
+5. First Bad Version
+6. Reverse String
